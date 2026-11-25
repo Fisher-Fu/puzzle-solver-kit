@@ -1,0 +1,12 @@
+{
+  "name": "puzzle-solver-kit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Puzzle solvers and a browser adapter for AI agents",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "demo": "node examples/sumbreak.mjs",
+    "test": "node --test"
+  }
+}
