@@ -1,0 +1,13 @@
+node_modules/
+english-words.txt
+.env
+.env.*
+*.log
+outputs/
+artifacts/
+browser-profile/
+storage-state*.json
+daily-results*.json
+*.png
+*.jpg
+*.jpeg
