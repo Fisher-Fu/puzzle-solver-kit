@@ -1,6 +1,6 @@
-# Puzzle Solver Kit
+# Puzzle Solver Kit for LinkedIn Games
 
-JavaScript solvers for grid and word puzzles, paired with optional browser controls for AI agents. The solver can compute a move plan locally. A compatible agent can read the visible board and enter the plan using ordinary browser clicks, drags, and key presses.
+JavaScript solvers for LinkedIn's daily grid and word puzzles, with optional browser controls for AI agents. The kit computes moves locally. A compatible agent can read the visible board and enter moves using browser clicks, drags, and key presses. The kit does not require a LinkedIn API key or an AI provider API key.
 
 ## Quick start
 
